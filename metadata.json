@@ -1,0 +1,5 @@
+{
+  "name": "GitGrade AI",
+  "description": "An intelligent system that evaluates GitHub repositories to provide a quality score, summary, and personalized roadmap using AI.",
+  "requestFramePermissions": []
+}
